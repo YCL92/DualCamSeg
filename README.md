@@ -34,4 +34,4 @@ Simply download the dataset and unzip it to "dataset" folder, or use your own vi
 
 Below is an example output as the combination of initial labeling result, semi-dense classification, and final dense segmentations:
 
-![demo](C:\Users\yuche\Documents\GitHub\dualCamSeg\README.assets\demo.png)
+![demo](README.assets/demo.png)
