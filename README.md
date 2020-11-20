@@ -1,4 +1,4 @@
-# Foreground Extraction via Dual-Side Cameras
+# Foreground extraction via dual-side cameras on a mobile device using long short-term trajectory analysis
 
 This repository is the implementation of the following paper:
 
